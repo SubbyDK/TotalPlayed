@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: TotalPlayed (Vanilla 1.12)
+## Notes: Sums /played across all your characters. Use /totalplayed.
+## Author: Subby
+## Version: 1.0.0
+## SavedVariables: TotalPlayedDB
+
+TotalPlayed.lua
